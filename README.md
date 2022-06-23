@@ -1,0 +1,2 @@
+# JackPortfolio
+Hello everyone! 👋👋 These are the files to my portfolio that is hosted on [jackshorenstein.com](https://jackshorenstein.com) that I think should be hosted here. Getting to this point (learning Linux enough that I can have my own web server) is amazing. I do hope you like it and you can use this repository as a template for your own website! The only thing that I ask is hat you mention my project! Anyways, that is all I have for you. Have a great day eveyone!
