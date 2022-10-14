@@ -4,4 +4,4 @@ Hello! This is the Git Repository to my website hosted on [jackshorenstein.com](
 
 -- Jack Shorenstein
 
-P.S. - Please credit me when using this webiste design in your own projects! Thanks!
+P.S. - Please credit me and the original creator of the site (which is [nineties.website](https://nineties.website)) when using this webiste design in your own projects! Thanks!
